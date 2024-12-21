@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: mizika
+Version: 0.1.0
+Summary: Python VLC tabanlı müzik çalar paketi
+Home-page: https://github.com/merenbasol42/softcommpy
+Author: Mustafa Eren BAŞOL
+Author-email: merenbasol@gmail.com
+License: UNKNOWN
+Project-URL: Source, https://github.com/merenbasol42/softcommpy
+Keywords: python music playlist player
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: test
+
+UNKNOWN
+
