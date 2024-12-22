@@ -1,3 +1,9 @@
+# Python build and distribution artifacts
 build/
-*.egg-info/
 dist/
+*.egg-info/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
