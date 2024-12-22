@@ -1,8 +1,0 @@
-typing-extensions
-
-[dev]
-mypy
-pytest
-
-[test]
-pytest
